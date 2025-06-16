@@ -4,7 +4,7 @@ Ein interaktiver, vollst√§ndig clientseitiger Editor zum Erstellen von Netzwerk‚
 
 ## Vorschau
 
-![image](https://github.com/user-attachments/assets/d93c0e38-3851-44b7-807e-997a841f4592)
+![image](https://github.com/user-attachments/assets/58885ddc-23ad-4e68-ae12-19cdbb929bc2)
 
 ## Features
 
